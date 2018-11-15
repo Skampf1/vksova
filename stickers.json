@@ -1,0 +1,66 @@
+[
+	{
+		"id": "psr_glinomec",
+		"name": "Пластилиновый Глиномес",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/glinomec.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/glinomec_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "psr_owl",
+		"name": "Freelance Owl",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/owl.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/owl_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "psr_wylsa",
+		"name": "Wylsacom",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/wylsa.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/wylsa_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "psr_sergeydruzhko",
+		"name": "Сергей Дружко",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/sergeydruzhko.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/sergeydruzhko_thumb.png",
+		"version": 1
+    },
+    {
+		"id": "psr_jazzcat",
+		"name": "Kotonchik (порт из ТГ)",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/jazzcat.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/jazzcat_thumb.png",
+		"version": 1
+	},
+	{
+		"id": "psr_resist",
+		"name": "Цифровое Сопротивление",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/resist.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/resist_thumb.png",
+		"version": 1
+	},
+	{
+		"id": "psr_ddlc",
+		"name": "Сайори из DDLC (неоф.)",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/ddlc.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/ddlc_thumb.png",
+		"version": 1
+	},
+	{
+		"id": "psr_bund",
+		"name": "Бунд",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/bund.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/bund_thumb.png",
+		"version": 1
+	}
+]
